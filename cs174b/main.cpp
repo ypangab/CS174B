@@ -7,9 +7,16 @@
 //
 
 #include <iostream>
+#include "console.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    char* input;
+    while(cin>>input){
+        
+        
+        
+        if(input == 'quit'){
+            
+        }}
     return 0;
 }
